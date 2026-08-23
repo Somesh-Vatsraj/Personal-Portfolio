@@ -15,7 +15,8 @@ export const siteConfig = {
     email: "john.doe@example.com",
     phone: "+1 (555) 123-4567",
     resumeUrl: "/resume.pdf",
-    profileImage: "/images/profile.jpg"
+    // Professional placeholder developer photo from Unsplash
+    profileImage: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80"
   },
 
   social: {
@@ -62,7 +63,7 @@ export const siteConfig = {
     {
       name: "SaveKaro",
       description: "A modern web application for tracking finances and savings goals seamlessly.",
-      image: "/images/projects/project1.jpg",
+      image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=800&q=80",
       technologies: ["React", "JavaScript", "REST API"],
       github: "https://github.com",
       live: "https://example.com",
@@ -72,7 +73,7 @@ export const siteConfig = {
     {
       name: "DevSphere",
       description: "A collaborative social platform for developers to share code snippets and articles.",
-      image: "/images/projects/project2.jpg",
+      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80",
       technologies: ["Node.js", "Express", "MongoDB", "React"],
       github: "https://github.com",
       live: "https://example.com",
@@ -82,7 +83,7 @@ export const siteConfig = {
     {
       name: "WeatherPulse",
       description: "Real-time global weather forecasting app with interactive radar maps.",
-      image: "/images/projects/project3.jpg",
+      image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&w=800&q=80",
       technologies: ["JavaScript", "HTML5", "CSS3", "API"],
       github: "https://github.com",
       live: "",
